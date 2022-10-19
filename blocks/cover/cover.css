@@ -1,0 +1,37 @@
+.cover {
+    display: block;
+    background-image: url(../../sprint-3-images/cover-trains.jpg);
+    font-family: 'Inter';
+    font-style: normal;
+    color: #FFFFFF;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    min-width: 320px;
+    min-height: 200px;
+    background-size: 100% 100%;
+}
+
+@media screen and (min-width: 768px){
+    .cover {
+        min-width: 768px;
+        min-height: 480px;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .cover {
+        min-width: 1024px;
+        min-height: 640px;
+    }
+}
+
+@media screen and (min-width: 1280px){
+    .cover {
+        min-width: 1184px;
+        min-height: 740px;
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+}

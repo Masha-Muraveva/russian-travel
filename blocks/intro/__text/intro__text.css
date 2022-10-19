@@ -1,0 +1,37 @@
+.intro__text {
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+    margin-top: 0;
+    margin-left: 16px;
+    margin-bottom: 34px;
+    margin-right: 16px;
+}
+
+
+    @media screen and (min-width: 768px){
+        .intro__text {
+            max-width: 720px;
+            margin-left: 24px;
+            margin-bottom: 33px;
+            margin-right: 24px;
+        } 
+    }
+    
+    @media screen and (min-width: 1024px){
+        .intro__text {
+            max-width: 690px;
+            margin-left: 0;
+            margin-right: 0;
+        } 
+    }
+    
+    
+    @media screen and (min-width: 1280px){
+        .intro__text {
+            margin-left: 0;
+        } 
+    }

@@ -1,0 +1,22 @@
+.header__lang-links {
+    display: flex;
+    flex-direction: row;
+    margin-right: 16px;
+    padding: 0;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+@media screen and (min-width: 768px){
+    .header__lang-links {
+        margin-right: 24px;
+    } 
+
+}
+
+@media screen and (min-width: 1024px){
+    .header__lang-links {
+        margin-right: 48px;
+    } 
+
+}
