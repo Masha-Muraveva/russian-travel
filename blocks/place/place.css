@@ -8,6 +8,7 @@
     @media screen and (min-width: 756px){
         .place {
             margin: 0 0 72px;
+            flex-direction: column;
         }
     }
     
