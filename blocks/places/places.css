@@ -2,7 +2,6 @@
     max-width: 100%;
     padding: 0;
     margin: 0 auto 66px;
-    border: 2px red solid;
 }
     
 @media screen and (min-width: 768px){

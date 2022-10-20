@@ -6,7 +6,6 @@
     margin: 0 auto 48px;
     min-width: 288px;
     max-width: 100%;
-    border: 2px red solid;
 }
 
 @media screen and (min-width: 768px){
