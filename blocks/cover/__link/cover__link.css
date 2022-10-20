@@ -23,7 +23,7 @@
 
 @media screen and (min-width: 1280px){
     .cover__link {
-        min-width: 1184px;
+        max-width: 1184px;
         min-height: 740px;
     }
 }
@@ -53,6 +53,7 @@
 @media screen and (min-width: 1280px){
     .cover__link::before {
         min-height: 740px;
+        max-width: 1184px;
     }
 }
 

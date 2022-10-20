@@ -20,8 +20,8 @@
     
 @media screen and (min-width: 1280px){
     .footer__content {
-        min-width: 1184px; 
-        
+        max-width: 1184px; 
+        margin: 0 auto 24px;
         } 
     
     }
