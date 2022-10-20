@@ -10,20 +10,19 @@
     padding: 0;
     max-width: 100%;
     min-height: 200px;
-    background-size: 100% 100%;
+    background-size: cover;
     border: 2px red solid;
+    background-position: center;
 }
 
 @media screen and (min-width: 768px){
     .cover {
-        min-width: 768px;
         min-height: 480px;
     }
 }
 
 @media screen and (min-width: 1024px){
     .cover {
-        min-width: 1024px;
         min-height: 640px;
     }
 }
