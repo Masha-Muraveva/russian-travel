@@ -14,14 +14,15 @@
         margin: 0 48px 24px;
         min-width: 928px; 
 
-        } 
+        }
     
     }
     
 @media screen and (min-width: 1280px){
     .footer__content {
-        max-width: 1184px; 
+        max-width: 1184px;
         margin: 0 auto 24px;
-        } 
+        
+        }
     
     }
