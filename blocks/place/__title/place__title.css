@@ -5,7 +5,6 @@
     font-weight: 900;
     font-size: 32px;
     line-height: 35px;
-    margin: 0px;
     width: 288px;
     margin: 0 0 32px;
 }
@@ -14,7 +13,7 @@
     .place__title {
         width: 340px;
         font-size: 44px;
-        line-height: 110%; 
+        line-height: 110%;
         margin: 0 28px 0 0;
     }
 }
