@@ -17,6 +17,7 @@
 @media screen and (min-width: 1024px){
     .place__header {
         margin: 0 48px 48px;
+        max-width: 928px;
     }
 }
 
