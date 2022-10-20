@@ -3,6 +3,8 @@
     justify-content: space-between;
     flex-direction: column;
     padding-top: 48px;
+    border: 2px red solid;
+    max-width: 100%;
 }
 
 @media screen and (min-width: 768px){

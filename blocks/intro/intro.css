@@ -2,6 +2,8 @@
     display: flex;
     flex-direction: column;
     margin: 0 auto 64px;
+    border: 2px red solid;
+    max-width: 100%;
 }
 
 @media screen and (min-width: 768px){
