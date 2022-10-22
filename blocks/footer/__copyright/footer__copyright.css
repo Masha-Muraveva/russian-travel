@@ -1,21 +1,17 @@
 .footer__copyright {
-    align-items: flex-end;
-    margin-top: 48px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 14px;
-    color: #FFFFFF;
-    margin-left: 16px;
-    margin-bottom: 24px;
+  align-items: flex-end;
+  margin-top: 48px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  margin-left: 16px;
+  margin-bottom: 24px;
 }
 
 @media screen and (min-width: 768px){
-    .footer__copyright {
-        font-size: 14px;
-        line-height: 16px;
-        margin: 0;
-        
+  .footer__copyright {
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0;
     }
 }

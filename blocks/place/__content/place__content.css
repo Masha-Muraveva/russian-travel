@@ -1,22 +1,24 @@
 @media screen and (min-width: 768px){
-    .place__content {
-        display: flex;
-        flex-direction: row;
-        max-width: 100%;
-        margin: 0 24px;
+  .place__content {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    margin: 0 24px;
     }
 }
 
 @media screen and (min-width: 1024px){
-    .place__content {
-        margin: 0 48px;
-        max-width: 928px;
+  .place__content {
+    margin-right: 48px;
+    margin-left: 48px;
+    max-width: 928px;
     }
 }
 
 @media screen and (min-width: 1280px){
-    .place__content {
-        margin: 0 auto;
-        max-width: 984px;
+  .place__content {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 984px;
     }
 }

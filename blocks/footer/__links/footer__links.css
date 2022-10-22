@@ -1,12 +1,11 @@
 .footer__links {
-    display: flex;
-    flex-direction: column;
-   }
+  display: flex;
+  flex-direction: column;
+}
    
-   @media screen and (min-width: 768px){
-       .footer__links {
-           flex-direction: row;
-           align-items: end;
-           
-       }
-   }
+@media screen and (min-width: 768px){
+  .footer__links {
+    flex-direction: row;
+    align-items: end;
+    }
+}

@@ -1,34 +1,32 @@
 .place__image {
-    max-width: 100%;
-    width: 100%;
-    margin: 0 0 32px;
-    object-fit: cover;
-    background-repeat: no-repeat;
+  max-width: 100%;
+  width: 100%;
+  margin: 0 0 32px;
+  object-fit: cover;
 }
 
 @media screen and (min-width: 768px){
-    .place__image {
-        width: 340px;
-        max-height: 340px;
-        margin: 0 28px 0 0;
-        
+  .place__image {
+    width: 340px;
+    max-height: 340px;
+    margin-right: 28px;
+    margin-bottom: 0;
     }
 }
 
 @media screen and (min-width: 1024px){
-    .place__image {
-        width: 440px;
-        max-height: 440px;
-        margin: 0 32px 0 0;
-        
+  .place__image {
+    width: 440px;
+    max-height: 440px;
+    margin-right: 32px;   
     }
 }
 
 @media screen and (min-width: 1280px){
-    .place__image {
-        width: 460px;
-        max-height: 460px;
-        margin: 0 40px 0 0;
+  .place__image {
+    width: 460px;
+    max-height: 460px;
+    margin-right: 40px;
         
     }
 }

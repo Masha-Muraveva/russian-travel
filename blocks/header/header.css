@@ -1,24 +1,24 @@
 .header {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding-top: 16px;
-    margin: 0 auto 48px;
-    min-width: 288px;
-    max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 16px;
+  margin: 0 auto 48px;
+  min-width: 288px;
+  max-width: 100%;
 }
 
 @media screen and (min-width: 768px){
-    .header {
-        padding-top: 28px;  
+  .header {
+    padding-top: 28px;  
     } 
 
 }
 
 @media screen and (min-width: 1280px){
-    .header {
-        margin-bottom: 56px;
-        max-width: 1184px;
+  .header {
+    margin-bottom: 56px;
+    max-width: 1184px;
     } 
 
 }
