@@ -12,21 +12,21 @@
     margin-right: 24px;
     margin-bottom: 48px;
     align-items: flex-end;
-    }
+  }
 }
 
 @media screen and (min-width: 1024px){
   .place__header {
     margin-left: 48px;
     margin-right: 48px;
-    max-width: 928px;
-    }
+    max-width: calc(100% - 48px*2);
+  }
 }
 
 @media screen and (min-width: 1280px){
   .place__header {
+    max-width: 984px;
     margin-left: auto;
     margin-right: auto;
-    max-width: 984px;
-    }
+  }
 }

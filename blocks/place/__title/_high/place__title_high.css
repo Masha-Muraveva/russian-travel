@@ -1,0 +1,12 @@
+@media screen and (min-width: 768px){
+    .place__title_high {
+      margin-bottom: 0;
+      margin-top: 46px;
+    }
+}
+
+@media screen and (min-width: 1024px){
+  .place__title_high {
+    margin-top: 0;
+  }
+}

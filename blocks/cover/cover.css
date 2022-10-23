@@ -1,9 +1,6 @@
 .cover {
   display: block;
-  background-image: url(../../sprint-3-images/cover-trains.jpg);
-  font-family: 'Inter';
-  font-style: normal;
-  color: #fff;
+  background-image: url(../../images/cover-trains.jpg);
   background-repeat: no-repeat;
   margin: 0;
   padding: 0;
@@ -17,5 +14,5 @@
     max-width: 1184px;
     margin-left: auto;
     margin-right: auto;
-    }
+  }
 }

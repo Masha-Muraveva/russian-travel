@@ -6,12 +6,19 @@
 @media screen and (min-width: 768px){
   .place__website {
     min-width: 352px;
-    }
+    max-width: calc(100% - 340px - 28px);
+  }
 }
 
 @media screen and (min-width: 1024px){
   .place__website {
     min-width: 456px;
-    }
+    max-width: calc(100% - 456px - 32px);
+  }
 }
 
+@media screen and (min-width: 1280px){
+  .place__website {
+    min-width: 484px;
+  }
+}

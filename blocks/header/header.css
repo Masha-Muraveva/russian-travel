@@ -11,14 +11,12 @@
 @media screen and (min-width: 768px){
   .header {
     padding-top: 28px;  
-    } 
-
+  }
 }
 
 @media screen and (min-width: 1280px){
   .header {
     margin-bottom: 56px;
     max-width: 1184px;
-    } 
-
+  }
 }

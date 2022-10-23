@@ -10,13 +10,17 @@
 @media screen and (min-width: 768px){
   .header__lang-links {
     margin-right: 24px;
-    } 
-
+  }
 }
 
 @media screen and (min-width: 1024px){
   .header__lang-links {
     margin-right: 48px;
-    } 
+  }
+}
 
+@media screen and (min-width: 1280px){
+  .header__lang-links {
+    margin: 0;
+  }
 }

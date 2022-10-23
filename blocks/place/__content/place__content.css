@@ -4,21 +4,21 @@
     flex-direction: row;
     max-width: 100%;
     margin: 0 24px;
-    }
+  }
 }
 
 @media screen and (min-width: 1024px){
   .place__content {
-    margin-right: 48px;
     margin-left: 48px;
-    max-width: 928px;
-    }
+    margin-right: 48px;
+    max-width: calc(100% - 48px*2);
+  }
 }
 
 @media screen and (min-width: 1280px){
   .place__content {
-    margin-right: auto;
-    margin-left: auto;
     max-width: 984px;
-    }
+    margin-left: auto;
+    margin-right: auto;
+  }
 }

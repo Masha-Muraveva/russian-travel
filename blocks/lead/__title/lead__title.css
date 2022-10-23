@@ -3,7 +3,7 @@
   font-weight: 900;
   font-size: 40px;
   line-height: 44px;
-  margin: 48px auto 16px;
+  margin: 0 auto 16px;
   max-width: 288px;
 }
 
@@ -13,6 +13,5 @@
     font-size: 96px;
     line-height: 100px;
     margin-bottom: 32px;
-    } 
-
+  }
 }
